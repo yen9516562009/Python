@@ -1,7 +1,6 @@
 """
 Title: geog580_final_project_Jeff
 Name: Jeff Yen
-RedID: 821274604
 Date: 11/29/2018
 """
 ## Import necessary Python libraries
