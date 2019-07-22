@@ -1,7 +1,6 @@
 """
 Title: geog596_final_project_Jeff
 Name: Jeff Yen
-RedID: 821274604
 Date: 04/26/2018
 """
 import arcpy
