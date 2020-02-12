@@ -1,5 +1,0 @@
-﻿Img_Path_30,Img_Path_1m,Time_Stamp,NDVI_Threshold
-./data/30m/naip2010.tif,./data/1m/naip2010.tif,2010,114
-./data/30m/naip2012.tif,./data/1m/naip2012.tif,2012,123
-./data/30m/naip2014.tif,./data/1m/naip2014.tif,2014,135
-./data/30m/naip2016.tif,./data/1m/naip2016.tif,2016,120
