@@ -1,6 +1,6 @@
 import gdal
 import numpy as np
-import Libs.outputraster as otr
+import libs.outputraster as otr
 
 def NDVI_Calculation(img, time_stamp, ndvi_threshold):
     #Free memory

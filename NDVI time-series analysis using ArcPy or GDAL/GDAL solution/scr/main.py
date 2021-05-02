@@ -6,8 +6,8 @@ Date: 04/26/2018
 import gdal
 import time
 import csv
-import Libs.veg_classification as vegcal
-import Libs.veg_change_detection as vegcd
+import libs.veg_classification as vegcal
+import libs.veg_change_detection as vegcd
 
 start_time = time.time() #initialize computational time
 
@@ -21,7 +21,7 @@ def main():
     
     #Read required attribures: image path, time stamp, ndvi threshold
     print("\nReading image path, time stamp, and ndvi threshold...")
-    with open('./Image_Info/image_info.csv', 'r') as f:
+    with open('../data/image_info.csv', 'r') as f:
       reader = csv.reader(f)
       attr_list = list(reader)
     img_path = []
